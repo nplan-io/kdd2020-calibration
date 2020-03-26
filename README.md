@@ -1,11 +1,22 @@
 # How to calibrate your neural network classifier: Getting accurate probabilities from a classification model
 
 ## Setup
-< write in more detail>
 1. Download Python 3.6 or later
+
+https://www.python.org/downloads/
 2. Install Jupyter Notebook
-3. Use the included requirements.txt to install the libraries
-4. Clone this repository 
+
+https://jupyter.org/install
+3. Clone this repository 
+4. Install necessary libraries from the requirements.txt
+
+With pip `pip3 install -r requirements.txt`
+
+With conda `conda install --file requirements.txt`
+5. Test run jupyter notebook
+
+In terminal or cmd by running `jupyter notebook` the jupyter notebook environment will appear in your browser tab
+or alternatively within your prefered Python IDE (Pycharm, VSCode, ..)
 
 ## Tutorial outline
 1. What is model calibration and why do we need it?
