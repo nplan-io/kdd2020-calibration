@@ -6,7 +6,7 @@
 
 2. Install Jupyter Notebook https://jupyter.org/install
 
-3. Clone this repository 
+3. Clone this repository https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 
 4. Install necessary libraries from the requirements.txt
 
