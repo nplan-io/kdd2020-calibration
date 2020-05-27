@@ -18,4 +18,9 @@ h2 {
 
 a {
   color: $primary;
+  &:hover {
+    font-weight: normal;
+    color: $primary;
+    text-decoration: underline;
+  }
 }
