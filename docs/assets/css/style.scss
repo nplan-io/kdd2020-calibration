@@ -35,10 +35,15 @@ a {
   }
 }
 
+dl {
+  margin-top: 50px
+}
+
 dt {
   color: $primary;
   font-weight: normal;
   font-family: "Avenir";
+  font-size: 16px;
 }
 
 .blackandwhite {
@@ -64,3 +69,4 @@ dt {
     }
   }
 }
+

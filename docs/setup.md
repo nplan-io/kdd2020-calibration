@@ -4,7 +4,7 @@
 
 2. Install [Jupyter Notebook](https://jupyter.org/install)
 
-3. Clone this repository or download the /tutorial folder as that's the only one we will use
+3. Clone this repository or download the `/tutorial` folder as that's the only one we will use
     How to clone a repository guide can be found [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 4. Install necessary libraries from the requirements.txt
