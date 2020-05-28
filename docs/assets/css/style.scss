@@ -25,3 +25,8 @@ a {
     text-decoration: underline;
   }
 }
+
+.blackandwhite {
+  filter: gray;
+  filter: grayscale(100%);
+}
