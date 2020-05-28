@@ -35,8 +35,7 @@ Keras implementation.
 <figure>
     <img src="/assets/image/natalia.jpg" alt="Natalia Culakova" width="45%" class="blackandwhite">
     <figcaption>Natalia Culakova, nPlan</figcaption>
-</figure> 
-<figure>
+</figure> <figure>
     <img src="/assets/image/dan.jpg" alt="Dan Murphy" width="45%" class="blackandwhite"/>
     <figcaption>Dan Murphy, nPlan</figcaption>
 </figure> 
