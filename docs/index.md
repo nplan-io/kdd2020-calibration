@@ -32,7 +32,8 @@ multiclass setting, and demonstrate ways to calibrate the model after training -
 Keras implementation.
 
 <h3> Presenters </h3>
-![Natalia Culakova](/assets/image/natalia.jpg)  |  ![Dan Murphy](/assets/image/dan.jpg)
+<img src="/assets/image/natalia.jpg" alt="Natalia Culakova" width="45%"/> |  <img src="/assets/image/dan.jpg" alt="Dan Murphy" width="45%"/>
+:-------------------------:|:-------------------------:
 Natalia Culakova, nPlan | Dan Murphy, nPlan
 
 <!--```python
