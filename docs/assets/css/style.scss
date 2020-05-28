@@ -30,3 +30,17 @@ a {
   filter: gray;
   filter: grayscale(100%);
 }
+
+.photo-container {
+  display: flex;
+  figure {
+    width: calc(50% - 30px);
+    img {
+      width: 100%;
+    }
+    figcaption {
+      font-size: 13px;
+    font-weight: 600;
+    }
+  }
+}

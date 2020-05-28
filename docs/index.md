@@ -32,7 +32,7 @@ multiclass setting, and demonstrate ways to calibrate the model after training -
 Keras implementation.
 
 <h3> Presenters </h3>
-<div style="display: flex;">
+<div class="photo-container">
 <figure>
     <img src="/assets/image/natalia.jpg" alt="Natalia Culakova" width="45%" class="blackandwhite">
     <figcaption>Natalia Culakova, nPlan</figcaption>
