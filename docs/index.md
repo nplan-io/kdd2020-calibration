@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<h1>How to calibrate your neural network classifier</h1>
-<h2>Getting true probabilities from a classification model</h2>
+<h2>How to calibrate your neural network classifier</h2>
+<h3>Getting true probabilities from a classification model</h3>
 
 When training classification models, machine learning professionals often optimise for accuracy 
 and other related metrics. Greater accuracy has been the focus of machine learning papers for 
@@ -31,7 +31,9 @@ some metrics to measure the size of the calibration problem in a binary setting,
 multiclass setting, and demonstrate ways to calibrate the model after training - from theory to a 
 Keras implementation.
 
-
+<h3> Presenters </h3>
+![Natalia Culakova](/assets/image/natalia.jpg)  |  ![Dan Murphy](/assets/image/dan.jpg)
+Natalia Culakova, nPlan | Dan Murphy, nPlan
 
 <!--```python
 calibrate.model('metadata.yaml')
