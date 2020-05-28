@@ -16,9 +16,11 @@
       <header>
         <a href="https://www.nplan.io"><img src="{{ site.logo }}" alt="{{ site.title | default: site.github.repository_name}}" class="project-name" /> </a>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p><a href="/">Info</a></p>
-        <p><a href="/setup">Setup</a></p>
-        <p><a href="/presentation">Presentation</a></p>
+        <dl>
+          <dt><a href="/">Info</a></dt>
+          <dt><a href="/setup">Setup</a></dt>
+          <dt><a href="/presentation">Presentation</a></dt>
+        </dl>
         <!--p>{{ site.description | default: site.github.project_tagline }}</p-->
 
         {% if site.github.is_project_page %}
