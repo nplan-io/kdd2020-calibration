@@ -34,13 +34,18 @@ a {
 .photo-container {
   display: flex;
   figure {
-    width: calc(50% - 30px);
+    width: calc(50% - 10px);
+    margin: 0;
+    text-align: center;
+    &:first-of-type {
+      margin-right: 20px;
+    }
     img {
       width: 100%;
     }
     figcaption {
       font-size: 13px;
-    font-weight: 600;
+      font-weight: 600;
     }
   }
 }
