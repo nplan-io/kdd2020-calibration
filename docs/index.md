@@ -32,6 +32,7 @@ multiclass setting, and demonstrate ways to calibrate the model after training -
 Keras implementation.
 
 <h3> Presenters </h3>
+<div style="display: flex;">
 <figure>
     <img src="/assets/image/natalia.jpg" alt="Natalia Culakova" width="45%" class="blackandwhite">
     <figcaption>Natalia Culakova, nPlan</figcaption>
@@ -39,6 +40,7 @@ Keras implementation.
     <img src="/assets/image/dan.jpg" alt="Dan Murphy" width="45%" class="blackandwhite"/>
     <figcaption>Dan Murphy, nPlan</figcaption>
 </figure> 
+</div>
 
 <!--```python
 calibrate.model('metadata.yaml')
