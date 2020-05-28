@@ -12,9 +12,18 @@ body {
 
 h1,
 h2,
-h3{
+h3 {
   font-family: "DIN";
+}
+
+h1 {
+  font-size: 42px;
   color: $primary;
+}
+
+h2,
+h3 {
+  color: rgba(0, 0, 0, 0.6);
 }
 
 a {
