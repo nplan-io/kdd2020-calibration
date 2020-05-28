@@ -26,6 +26,12 @@ a {
   }
 }
 
+dl {
+  color: $primary;
+  font-weight: normal;
+  font-family: "Avenir";
+}
+
 .blackandwhite {
   filter: gray;
   filter: grayscale(100%);
