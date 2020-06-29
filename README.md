@@ -2,22 +2,11 @@
 ## Getting true probabilities from a classification model
 
 ### Setup
-1. Download Python 3.6 or later https://www.python.org/downloads/
+0. Ensure you have an up to date browser installed (ideally Chrome, Firefox or Safari)
 
-2. Install Jupyter Notebook https://jupyter.org/install
+1. Click this link to take you to [the notebook template](https://colab.research.google.com/github/nplan-io/kdd2020-calibration/blob/master/tutorial/KDD%202020%20-%20nPlan%20calibration%20session.ipynb)
 
-3. Clone this repository https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
-
-4. Install necessary libraries from the requirements.txt
-
-With pip `pip3 install -r requirements.txt`
-
-With conda `conda install --file requirements.txt`
-
-5. Test run jupyter notebook
-
-In terminal or cmd by running `jupyter notebook` the jupyter notebook environment will appear in your browser tab
-or alternatively within your prefered Python IDE (Pycharm, VSCode, ..)
+2. At the end of the tutorial, follow this link to take you to some [model answers](https://colab.research.google.com/github/nplan-io/kdd2020-calibration/blob/master/tutorial/KDD%202020%20-%20nPlan%20calibration%20session%20(completed).ipynb)
 
 ### Tutorial outline
 1. Overview of calibration:
