@@ -5,6 +5,7 @@ This is a repository for a hands-on tutorial on calibration at the KDD 2020 virt
 It comprises of slides to explain some concepts, resources for further reading and template colab 
 notebook for those who want to try implementing some of these methods, as well as some model answers.
 This tutorial will be shared as a video for the virtual conference and later accessible on youtube.
+For more information go to [this website](http://kdd2020.nplan.io/presentation).
 
 ### Setup
 0. Ensure you have an up to date browser installed (ideally Chrome, Firefox or Safari)
