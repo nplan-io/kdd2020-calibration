@@ -25,4 +25,10 @@
 5. How is calibration used in the real world?
 
 
-[<h3>Presentation slides</h3>](https://github.com/nplan-io/kdd2020-calibration/tree/master/tutorial/presentation_slides.pdf)
+<h3>Presentation slides</h3>
+<figure>
+    <a href="https://github.com/nplan-io/kdd2020-calibration/tree/master/tutorial/presentation_slides.pdf">
+    <img src="/assets/image/first_slide.jpg" alt="First slide of the presentation How to Calibrate 
+    your Neural Network Classifier: Getting True Probabilities from a Classification Model" class="blackandwhite">
+    </a>
+</figure>
