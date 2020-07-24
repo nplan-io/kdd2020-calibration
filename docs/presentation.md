@@ -10,11 +10,19 @@
     * Reliability diagrams
     * Expected calibration error
     * Maximum calibration error
-    * nPlan’s RMS calibration error
+    * RMS calibration error
+3. Literature review
+    * Platt, J. - Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods
+    * Niculescu-Mizil, Alexandru & Caruana, Rich. - Predicting good probabilities with supervised learning
+    * Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. - On calibration of modern neural networks 
 
-3. Methods for calibrating classifiers:
-    * Temperature scaling
+4. Methods for calibrating classifiers:
+    * Isotonic regression
     * Platt scaling
+    * Temperature scaling
     * Matrix and vector scaling
 
-4. How is calibration used in the real world?
+5. How is calibration used in the real world?
+
+
+[<h3>Presentation slides</h3>](https://github.com/nplan-io/kdd2020-calibration/tree/master/tutorial/presentation_slides.pdf)
